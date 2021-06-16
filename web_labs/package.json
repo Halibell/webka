@@ -13,7 +13,7 @@
     "db:seed:run": "./node_modules/.bin/knex --knexfile=./src/db/knexfile.js seed:run"
   },
   "keywords": [],
-  "author": "Vaqim",
+  "author": "Vitalik",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
